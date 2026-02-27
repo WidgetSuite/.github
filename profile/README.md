@@ -11,19 +11,25 @@ We believe in the artistry of code. Our mission is to build beautiful, functiona
 WidgetSuite houses a growing collection of applications. Although their purposes vary, they share a commitment to craftsmanship, clean code, and user-centric design.
 
 ### 🎓 Quizdy
+
 A flexible and engaging platform for creating, taking, and sharing educational quizzes. Perfect for learning or pure fun.
+
 * **Status:** [Migrating]
 * **Repository:** `Coming soon to github.com/WidgetSuite/quizdy`
 * **Tags:** Flutter, EdTech, Gamification
 
 ### 🎁 oraffle
+
 An easy-to-use utility for managing transparent raffles and giveaways. Whether for events or online contests, oraffle ensures fairness.
+
 * **Status:** [Migrating]
 * **Repository:** `Coming soon to github.com/WidgetSuite/oraffle`
 * **Tags:** Flutter, Utility, Transparency
 
 ### 📄 DragPDF
+
 A focused productivity tool for manipulating PDF documents with simple drag-and-drop interactions.
+
 * **Status:** [Migrating]
 * **Repository:** `Coming soon to github.com/WidgetSuite/DragPDF`
 * **Tags:** Flutter, Productivity, Desktop/Mobile Utility
