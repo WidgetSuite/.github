@@ -1,4 +1,4 @@
-# <img src="https://github.com/WidgetSuite/.github/blob/main/profile/logo.png?raw=true" align="center" width="48px" height="48px" /> WidgetSuite
+# <img src="https://github.com/WidgetSuite/.github/blob/main/profile/logo.png?raw=true" align="center" width="48px" height="48px" /> Widget Suite
 
 Welcome to **Widget Suite**, a curated organization dedicated to crafting purposeful, high-quality open-source software using **Flutter** and **Dart**.
 
