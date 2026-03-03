@@ -1,6 +1,6 @@
 # <img src="https://github.com/WidgetSuite/.github/blob/main/profile/logo.png?raw=true" align="center" width="48px" height="48px" /> WidgetSuite
 
-Welcome to **WidgetSuite**, a curated organization dedicated to crafting purposeful, high-quality open-source software using **Flutter** and **Dart**.
+Welcome to **Widget Suite**, a curated organization dedicated to crafting purposeful, high-quality open-source software using **Flutter** and **Dart**.
 
 We believe in the artistry of code. Our mission is to build beautiful, functional, and cross-platform utilities that solve real-world problems, from educational tools to productivity enhancers, all under one transparent, collaborative umbrella.
 
